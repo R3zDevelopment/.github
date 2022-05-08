@@ -12,7 +12,7 @@ I write apps on an occassion.
 
 I'm a coder/programmer/whatever using C#, Papyrus, json & possibly more
 
-I'm a 3D "artist" and modeller (I use Blender and Substance Painter)
+I'm a 3D "artist" (I use Blender and Substance Painter)
 
 
 If you have any questions please do let me know and do [join the Discord](https://discord.gg/rqtzxrQACk) if you're interested in my work!
