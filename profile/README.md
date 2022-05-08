@@ -2,7 +2,7 @@
 
 **Little bit of info:**
 
-At this time I am a solo developer looking to develop and/or publish games. 
+At this time I am a solo developer looking to develop and/or publish games and/or apps. 
 
 I'm a Fallout 4, Skyrim and Blade & Sorcery Mod Author!
 
